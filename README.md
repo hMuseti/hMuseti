@@ -14,9 +14,6 @@ I'm passionate about **Business Intelligence**, **Data Science**, and **data-dri
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/hMuseti">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.instagram.com/ll_uuppiinn/">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
