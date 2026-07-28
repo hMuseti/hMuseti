@@ -14,8 +14,8 @@ I'm passionate about **Business Intelligence**, **Data Science**, and **data-dri
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hiago-museti/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/hiago-museti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hiago_Museti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ll_uuppiinn/">
     <img src="https://img.shields.io/badge/Instagram-@ll__uuppiinn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
